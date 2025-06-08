@@ -13,4 +13,4 @@ jobs:
         run: |
           docker login --username SamuelOshobugie --password ${{ secrets.GH_PAT }} ghcr.io
           docker build . --tag ghcr.io/samueloshobugie/websitescript:latestversion1
-          docker push ghcr.io/ikeokoli/websitescript:latestversion1
+          docker push ghcr.io/samueloshobugie/websitescript:latestversion1
