@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Author: Sam
-# Date Created: 17th May 2025
+# Date Created: 8th May 2025
 # Last Modified: 10th June 2025
 # Description: This Script takes in user inputs
 # Usage: Change the file permission to executable and run with (./)
